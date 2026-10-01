@@ -1,18 +1,223 @@
-# 💫 About Me:
-🎓 MCA Graduate | Fresher<br>🤖 AI Enthusiast<br>📊 Aspiring Data Scientist & Data Analyst
+# 👋 Hi, I'm Sadiq Ali H
 
+## 🚀 AI Engineer | Generative AI | Agentic AI | LLM Engineer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_v8_revz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiq786) 
+I'm an AI Engineer passionate about building intelligent AI applications using Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), AI Agents, Deep Learning, and Data Science.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sadiqali78&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sadiqali78&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiqali78&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I enjoy designing production-ready AI systems that solve real-world business problems through automation, intelligent reasoning, and modern AI architectures.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sadiqali78&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💡 What I'm Working On
+
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Agentic AI Applications
+- 🔥 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔗 Model Context Protocol (MCP)
+- ⚡ FastAPI AI Backend Development
+- 🧩 LangChain & LangGraph
+- 📊 Data Science & Data Analytics
+- 🧠 Deep Learning & Computer Vision
+- ☁️ AI Deployment using Docker & Cloud
+
+---
+
+# 🛠 Tech Stack
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## Generative AI
+
+- Large Language Models (LLMs)
+- Generative AI
+- AI Agents
+- Agentic AI
+- Multi-Agent Systems
+- RAG
+- MCP
+- Prompt Engineering
+- Function Calling
+- Tool Calling
+- AI Automation
+
+---
+
+## AI Frameworks
+
+- LangChain
+- LangGraph
+- LangSmith
+- CrewAI
+- AutoGen
+- OpenAI SDK
+- Hugging Face Transformers
+- Sentence Transformers
+
+---
+
+## Backend Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+
+- REST APIs
+- AI API Development
+- Authentication
+- File Processing
+
+---
+
+## Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+
+- EDA
+- Feature Engineering
+- Data Cleaning
+- Data Visualization
+- Statistical Analysis
+
+---
+
+## Databases
+
+- MySQL
+- SQLite
+- ChromaDB
+- FAISS
+- Vector Databases
+
+---
+
+## DevOps & Cloud
+
+- Docker
+- Git
+- GitHub
+- AWS
+- Google Cloud
+- Cloudflare
+- Linux
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Medical Chatbot
+
+- Multi-Agent Architecture
+- FastAPI
+- RAG
+- LLM
+- OCR
+- Medical Document Analysis
+
+---
+
+### 🏢 AI Real Estate Operations Platform
+
+- Agentic AI
+- Multi-Agent Workflow
+- MCP
+- CRM Automation
+- AI Analytics
+
+---
+
+### 📄 AI Document Intelligence
+
+- PDF Understanding
+- OCR
+- RAG
+- Vector Database
+- Semantic Search
+
+---
+
+### 🧠 AI Data Analytics Assistant
+
+- Natural Language Analytics
+- SQL Generation
+- Dashboard Insights
+- Business Intelligence
+
+---
+
+### 👁 Computer Vision Projects
+
+- CNN
+- Deep Learning
+- Image Classification
+- Object Detection
+- TensorFlow
+- PyTorch
+
+---
+
+# 📈 Currently Learning
+
+- Advanced Agentic AI
+- Model Context Protocol (MCP)
+- AI Operating Systems
+- Multimodal AI
+- AI Infrastructure
+- LLMOps
+- MLOps
+- Knowledge Graphs
+- AI Evaluation
+- Fine Tuning
+- Reinforcement Learning
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sadiq786)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_v8_revz_)
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Sadiqali78&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sadiqali78&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiqali78&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 💬 Motto
+
+> "Building the next generation of AI applications with LLMs, Agentic AI, RAG, MCP, and intelligent autonomous systems."
+
+---
+
+![](https://komarev.com/ghpvc/?username=Sadiqali78&style=for-the-badge&color=blue)
